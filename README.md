@@ -20,19 +20,25 @@ This is an outline of the steps needed to be completed before installing Active 
 
 <h2>Procedure Steps</h2>
 
-
+<p>
 ![image](https://github.com/user-attachments/assets/0b0fbb28-389f-4e9f-9818-27f888a2b9b4)
 
-<p>Image 1
+
 </p>
 
+<p>
 ![image](https://github.com/user-attachments/assets/d16e6242-23b8-49ff-b9c4-ea6c12eb4c4d)
 
-<p>Image 2
+
 </p>
 
-After turning on and logging into your laptop or desktop, go online and navigate to Github.com. If you already have an account log in (ref. image 2), otherwise you can click the sign up botton and follow the directions to create an account (ref. image 1).
+<p>
+![image](https://github.com/user-attachments/assets/d16e6242-23b8-49ff-b9c4-ea6c12eb4c4d)
 
+
+</p>
+
+After logging into your Microsoft Azure account, on the home page and type resource groups in the search bar, then click on the resource group option. On the resource group creation page in the top left corner click the create button. That will take you to create a  resource group page. On this page you type the name for your resource group in resource group tab, select the region you want to put it in, and at the bottom you click the review+create botton and the create to actually create the resource group.
 
 ![image](https://github.com/user-attachments/assets/7ad3966a-1c95-46c7-b17a-e115f25d61da)
 
