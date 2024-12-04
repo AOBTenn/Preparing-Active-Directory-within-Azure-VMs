@@ -23,7 +23,8 @@ This is an outline of the steps needed to be completed before installing Active 
 ![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
 
 
-![image](https://github.com/user-attachments/assets/d16e6242-23b8-49ff-b9c4-ea6c12eb4c4d)
+![image](https://github.com/user-attachments/assets/01838b92-b0e2-4f62-b11d-a4d30f1d9c5a)
+
 
 
 After logging into your Microsoft Azure account, on the home page and type resource groups in the search bar, then click on the resource group option. On the resource group creation page in the top left corner click the create button. That will take you to create a  resource group page. On this page you type the name for your resource group in resource group tab, select the region you want to put it in, and at the bottom you click the review+create botton and the create to actually create the resource group.
