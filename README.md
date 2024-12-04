@@ -21,16 +21,20 @@ This is an outline of the steps needed to be completed before installing Active 
 <h2>Procedure Steps</h2>
 
 ![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
-Image 1
+<p>Image 1
+</p>
 
 ![image](https://github.com/user-attachments/assets/01838b92-b0e2-4f62-b11d-a4d30f1d9c5a)
-Image 2
+<p>Image 2
+</p>
 
 ![image](https://github.com/user-attachments/assets/a49416d7-6bdb-4f56-bce0-f765f35de347)
+<p>Image 3
+</p>
 
-Image 3
 ![image](https://github.com/user-attachments/assets/4658e411-7320-4460-b52d-30efefb3aa88)
-Image 4
+<p>Image 4
+</p>
 
 
 After logging into your Microsoft Azure account, on the home page and type resource groups in the search bar, then click on the resource group option. On the resource group creation page in the top left corner click the create button (ref. image 1). That will take you to create a resource group page. On this page you type the name for your resource group in resource group tab, then select the region you want to put it in (ref. image 2), and at the bottom you click the review+create botton (ref. image 3) followed by the create botton (ref. image 4) to actually create the resource group.
