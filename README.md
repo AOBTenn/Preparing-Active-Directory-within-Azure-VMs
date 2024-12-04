@@ -1,5 +1,5 @@
 # Installing-Active-Directory-within-Azure-VMs
-<p align="center">![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
+![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
 
 
 
