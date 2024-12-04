@@ -1,4 +1,4 @@
-# Preparing-Active-Directory-Environment-within-Azure-VMs
+# Preparing Active Directory Environment Within Microsoft Azure Virtual Machine
 ![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
 
 
