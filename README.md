@@ -1,9 +1,9 @@
-# Installing-Active-Directory-within-Azure-VMs
+# Preparing-Active-Directory-Environment-within-Azure-VMs
 ![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
 
 
 
-This is a simple outline of the process to create a new repository in GitHub after creating a Github account.<br />
+This is an outline of the steps needed to be completed before installing Active Directory. Basically you will be setting up the environment within Microsofth Azure with two virtual machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
