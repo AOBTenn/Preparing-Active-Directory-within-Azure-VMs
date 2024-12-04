@@ -20,7 +20,8 @@ This is an outline of the steps needed to be completed before installing Active 
 
 <h2>Procedure Steps</h2>
 
-![image](https://github.com/user-attachments/assets/0b0fbb28-389f-4e9f-9818-27f888a2b9b4)
+![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
+
 
 ![image](https://github.com/user-attachments/assets/d16e6242-23b8-49ff-b9c4-ea6c12eb4c4d)
 
