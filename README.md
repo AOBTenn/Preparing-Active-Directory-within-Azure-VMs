@@ -9,6 +9,7 @@ This is an outline of the steps needed to be completed before installing Active 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
+- Virtual Machines
 - Internet 
 
 <h2>List of Prerequisites</h2>
