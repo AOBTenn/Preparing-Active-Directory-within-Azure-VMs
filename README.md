@@ -8,19 +8,14 @@ This is a simple outline of the process to create a new repository in GitHub aft
 
 <h2>Environments and Technologies Used</h2>
 
-- Desktop Pc
+- Microsoft Azure
 - Internet 
-
-<h2>Operating Systems Used </h2>
-
-- Windows 11 Home</b>
 
 <h2>List of Prerequisites</h2>
 
 - Laptop or Desktop Pc                                                                                                                                 
-- Operating system on said laptop or desktop
 - Wifi Access
-- GitHub Account
+- MKicrosoft Azure Account
 
 <h2>Procedure Steps</h2>
 
