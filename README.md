@@ -1,5 +1,6 @@
 # Installing-Active-Directory-within-Azure-VMs
-![image](https://github.com/user-attachments/assets/8d4e5e12-f50f-4daa-82c4-b80d7ad043dc)
+![image](https://github.com/user-attachments/assets/e4f41676-9505-49cf-82a1-c1ad2d5cf390)
+
 
 
 This is a simple outline of the process to create a new repository in GitHub after creating a Github account.<br />
