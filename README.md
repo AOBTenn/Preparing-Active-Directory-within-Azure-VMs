@@ -20,6 +20,8 @@ This is an outline of the steps needed to be completed before installing Active 
 
 <h2>Procedure Steps</h2>
 
+After logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an  be taken to the create a (RG) page. On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the Resource Group made.
+
 ![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
 <p>Image 1
 </p>
@@ -36,7 +38,7 @@ This is an outline of the steps needed to be completed before installing Active 
 <p>Image 4
 </p>
 
-After logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an  be taken to the create a (RG) page. On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the Resource Group made.
+Next you create the Virtual Network. In the search bar type Virtual Network (VN) and click that option to go to the VN's home page. On the home page in the top left corner click the create button to go to the Create a Virtual Network page. On this page type the name of you (VN), and place the Virtual Network under the previously made Resource Group and in the same region as the resource group. Next click the review+create button and then the create buttton.
 
 ![image](https://github.com/user-attachments/assets/2ba22787-26cb-48ed-866b-38b8d36c8f2f)
 <p>Image 5
@@ -47,7 +49,7 @@ After logining into or creating a Microsoft Azure account you will be on the hom
 <p>Image 6
 </p>
 
-Next you create the Virtual Network. In the search bar type Virtual Network (VN) and click that option to go to the VN's home page. On the home page in the top left corner click the create button to go to the Create a Virtual Network page. On this page type the name of you (VN), and place the Virtual Network under the previously made Resource Group and in the same region as the resource group. Next click the review+create button and then the create buttton.
+Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "Client-1". Dc-1 is going to be a server while Client-1 is going to be a Windows operating Virtual Machine (VM). To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "DC-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows Server 2022" image, set the user name and password, and check the license box, then click the disk tab at the bottom. Next click the network tab and on the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
 
 ![image](https://github.com/user-attachments/assets/c25ee35e-f0e8-4bc2-bd2b-3c060223b336)
 <p>Image 7
@@ -78,7 +80,7 @@ Next you create the Virtual Network. In the search bar type Virtual Network (VN)
 </p>
 
 
-Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "Client-1". Dc-1 is going to be a server while Client-1 is going to be a Windows operating Virtual Machine (VM). To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "DC-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows Server 2022" image, set the user name and password, and check the license box, then click the disk tab at the bottom. Next click the network tab and on the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
+Now create "Client-1" Virtual Machine. To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "Client-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows 10 Pro, version 22H2" image, set the user name and password, and check the license box, then click the disk tab at the bottom. Next click the network tab and on the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
 
 ![image](https://github.com/user-attachments/assets/c25ee35e-f0e8-4bc2-bd2b-3c060223b336)
 <p>Image 14
@@ -109,6 +111,5 @@ Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "
 </p>
 
 
-Now create "Client-1" Virtual Machine. To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "Client-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows 10 Pro, version 22H2" image, set the user name and password, and check the license box, then click the disk tab at the bottom. Next click the network tab and on the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
 
 
