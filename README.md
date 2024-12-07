@@ -38,6 +38,12 @@ This is an outline of the steps needed to be completed before installing Active 
 
 After logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an  be taken to the create a (RG) page. On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the Resource Group made.
 
+![image](https://github.com/user-attachments/assets/2ba22787-26cb-48ed-866b-38b8d36c8f2f)
+<p>Image 5
+</p>
+![image](https://github.com/user-attachments/assets/1226cec0-8a56-4d37-89d0-19ef561092ef)
+<p>Image 6
+</p>
 
 Next you create the Virtual Network. In the search bar type Virtual Network (VN) and click that option to go to the VN's home page. On the home page in the top left corner click the create button to go to the Create a Virtual Network page. On this page type the name of you (VN), and place the Virtual Network under the previously made Resource Group and in the same region as the resource group. Next click the review+create button and then the create buttton.
 
