@@ -112,36 +112,3 @@ Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "
 Now create "Client-1" Virtual Machine. To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "Client-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows 10 Pro, version 22H2" image, set the user name and password, and check the license box, then click the disk tab at the bottom. Next click the network tab and on the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
 
 
-![image](https://github.com/user-attachments/assets/2ea9ac3a-5f9a-4ad1-95c8-a57b5965c215)
-
-
-On this new repository page, first you name the repository by clickng and typing under the Repository Name box. 
-  Second you decide if you want the repository page to be public or private.
-  Third you can choose if you want o add readme file, .gitignore., and the license.
-
-
-![image](https://github.com/user-attachments/assets/fca92535-0058-454c-9761-cdaac486d652)
-
-<p>Image 5
-</p>
-
-![image](https://github.com/user-attachments/assets/fc151d57-5615-4cba-abfa-42a68cf720b2)
-
-<p>Image 6
-</p>
-
-The type of license you want the material in and the repository to be restricted under (ref. image 5). For a better understanding  on the different license option click on this link:
-  https://choosealicense.com/ (ref. image 6). 
-
-
-![image](https://github.com/user-attachments/assets/47bb07cf-5173-4653-a0a0-9b63c310538f)
-
-<p>Image 7
-</p>
-
-![image](https://github.com/user-attachments/assets/cc551a57-1f0c-4dfd-8a19-3d3c1f5455d3)
-
-<p>Image 8
-</p>
-
-Then you click the green "Create Repository" button to create the repository (ref. image 7). You will be taken to the new repository page after it is made (ref. image 8).
