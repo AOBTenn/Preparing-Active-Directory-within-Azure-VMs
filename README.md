@@ -52,6 +52,7 @@ Next you create the Virtual Network. In the search bar type Virtual Network (VN)
 ![image](https://github.com/user-attachments/assets/c25ee35e-f0e8-4bc2-bd2b-3c060223b336)
 ![image](https://github.com/user-attachments/assets/fbb1f3c1-da0a-4e45-8888-cf60cc66ddb0)
 ![image](https://github.com/user-attachments/assets/b1bb605b-ca39-4f8b-9058-25cd1a491f8c)
+![image](https://github.com/user-attachments/assets/617fcfb8-0f56-43c3-8625-02197298af42)
 
 
 
@@ -60,6 +61,7 @@ Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "
 ![image](https://github.com/user-attachments/assets/c25ee35e-f0e8-4bc2-bd2b-3c060223b336)
 ![image](https://github.com/user-attachments/assets/70bef57e-05ea-4060-af75-585dd2752b81)
 ![image](https://github.com/user-attachments/assets/00de40b2-97f2-465b-9c83-48f1e6e790da)
+![image](https://github.com/user-attachments/assets/da8a5033-f132-466a-a8b1-7fe85d613c85)
 
 
 
