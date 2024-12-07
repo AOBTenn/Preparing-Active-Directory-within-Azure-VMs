@@ -16,11 +16,11 @@ This is part 1 of an outline of the steps needed to be completed before installi
 
 - Laptop or Desktop Pc                                                                                                                                 
 - Wifi Access
-- MKicrosoft Azure Account
+- Microsoft Azure Account
 
 <h2>Procedure Steps</h2>
 
-`ter logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an be taken to the create a (RG) page (refer to image 1). On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in (refer to image 2). Next press the review+create button (refer to image 3) and then the create button (refer to image 4) to actually have the Resource Group made.
+Ater logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an be taken to the create a (RG) page (refer to image 1). On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in (refer to image 2). Next press the review+create button (refer to image 3) and then the create button (refer to image 4) to actually have the Resource Group made.
 
 ![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
 <p>Image 1
