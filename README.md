@@ -41,7 +41,9 @@ After logining into or creating a Microsoft Azure account you will be on the hom
 ![image](https://github.com/user-attachments/assets/2ba22787-26cb-48ed-866b-38b8d36c8f2f)
 <p>Image 5
 </p>
-![image](https://github.com/user-attachments/assets/1226cec0-8a56-4d37-89d0-19ef561092ef)
+
+![image](https://github.com/user-attachments/assets/a63ef035-f213-4c96-8100-0aa29ace084f)
+
 <p>Image 6
 </p>
 
