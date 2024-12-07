@@ -20,7 +20,7 @@ This is an outline of the steps needed to be completed before installing Active 
 
 <h2>Procedure Steps</h2>
 
-After logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an  be taken to the create a (RG) page. On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the Resource Group made.
+`ter logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource Group (RG) and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create a Resource Group an  be taken to the create a (RG) page. On the create a Resource Group page type the name of your (RG) in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the Resource Group made.
 
 ![image](https://github.com/user-attachments/assets/8ecf164a-2440-4a74-a6e5-7b3def1f659d)
 <p>Image 1
