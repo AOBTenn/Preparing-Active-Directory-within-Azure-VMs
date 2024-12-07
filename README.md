@@ -52,7 +52,7 @@ Next you create the Virtual Network. In the search bar type Virtual Network (VN)
 ![image](https://github.com/user-attachments/assets/7ad3966a-1c95-46c7-b17a-e115f25d61da)
 
 
-Next we create the two Virtual Machines, "Dc-1" and "Client-1". Dc-1 is going to be a server while Client-1 is going to be a Windows operating Virtual Machine (VM). To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On
+Next we create the two Virtual Machines, for demonstration purposes "Dc-1" and "Client-1". Dc-1 is going to be a server while Client-1 is going to be a Windows operating Virtual Machine (VM). To create a (VM) go to the search bar and type Virtual Machines and click on that option to go the the (VM) home page. On this home page  in the top left corner click create and choose "Azure Virtual Machine" option from the drop down menu to go to the create a (VM) page. On create a virtual machine page name it "DC-1", then place it in same region and resource group. Next set security type to standard, pick the "Windows Server 2022" image, set the user name and password, and check the license box. Then click the disk tab, then network tab. On the network tab make sure the (VM) is put in the Virtual Network created in previous steps. Lastly press review+create and then create.
 
 
 ![image](https://github.com/user-attachments/assets/2ea9ac3a-5f9a-4ad1-95c8-a57b5965c215)
