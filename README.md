@@ -36,8 +36,10 @@ This is an outline of the steps needed to be completed before installing Active 
 <p>Image 4
 </p>
 
+After logining into or creating a Microsoft Azure account you will be on the home screen. In the search bar type Resource group and click on that option to go to the Resource Group page. On this page in the top left corner click the creatre button to create  a resource group an  be taken to the create a resource group page. On the create a resource group page type the name of your resource group in the tab, then select a region to save the data in. Next press the review+create button and then the create button to actually have the resource group made.
 
-Next you create the virtual network. In the  search bar type Virtual Network (VN) and click that option to go to the VN's home page.
+
+Next you create the virtual network. In the search bar type Virtual Network (VN) and click that option to go to the VN's home page. On the home page in the top left corner 
 
 ![image](https://github.com/user-attachments/assets/7ad3966a-1c95-46c7-b17a-e115f25d61da)
 
