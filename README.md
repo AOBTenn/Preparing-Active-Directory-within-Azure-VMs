@@ -3,7 +3,7 @@
 
 
 
-This is an outline of the steps needed to be completed before installing Active Directory. Basically you will be setting up the environment within Microsofth Azure with two virtual machines.<br />
+This is part 1 of an outline of the steps needed to be completed before installing Active Directory. Basically you will be setting up the environment within Microsofth Azure with two virtual machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
